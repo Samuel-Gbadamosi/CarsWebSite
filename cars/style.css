@@ -35,6 +35,11 @@ header{
 
 }
 
+footer{
+    height: 200px;
+    background-color: #8486A0;
+}
+
 .header-bot h3{
     color: #F77D0A;
     text-transform: uppercase;
@@ -267,13 +272,14 @@ background-color: #f4f5f8;
 
 .base{
     height: 500px;
-    background-color: red;
+    background-color: white;
 }
 
 .cont{
     height: 450px;
-    background-color: #F4F5F8;
+    background-color: #485887;
     border-radius: 10px;
+    padding: 33px 24px;
 }
 
 .jumi{
@@ -286,10 +292,20 @@ background-color: #f4f5f8;
     
 }
 .bhuo{
-    background-color: purple;
+    background-color: #2B2E4A;
     height: 449px;
+    padding: 19px;
 
 }
 .bhuo ul li i{
  font-size: 40px;
+ color: orange;
+}
+
+.bhuo h5{
+    color: white;
+}
+
+.bhuo p{
+    color: #8486A0;
 }
