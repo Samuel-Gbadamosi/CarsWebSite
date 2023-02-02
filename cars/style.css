@@ -269,3 +269,27 @@ background-color: #f4f5f8;
     height: 500px;
     background-color: red;
 }
+
+.cont{
+    height: 450px;
+    background-color: #F4F5F8;
+    border-radius: 10px;
+}
+
+.jumi{
+    margin-top: 20px;
+    background-color: orange;
+    color: white;
+    width: 200px;
+    height: 44px;
+    border: 2px solid orange;
+    
+}
+.bhuo{
+    background-color: purple;
+    height: 449px;
+
+}
+.bhuo ul li i{
+ font-size: 40px;
+}
