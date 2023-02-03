@@ -22,20 +22,24 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
+    <!-- header -->
     <header>
         <?php include('header.php'); ?>
 
     </header>
+    <!-- header close -->
     <main>
 
     <section class="sect2 mb-4">
+        <!-- the row we suppose to send in a button -->
                 <div class="row">
                     <div class="text-center">
-                        <h1>04</h1>
-                        <h2>Our Client's say</h2>
+                        <!-- <h1>04</h1> -->
+                        <h2>Contact Us</h2>
                     </div>
 
                 </div>
+                <!-- end row  -->
 
             </section>
             <section class="base">

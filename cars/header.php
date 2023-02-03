@@ -2,7 +2,7 @@
     <div class="header-t row p-3">
             <div class="col-3">
                 <ul class="d-flex justify-content-start  list-unstyled">
-                    <li class="pr-2"> <i class="fa-solid fa-phone"></i> +012 345 6789</li>
+                    <li class="pr-2"> <i class="fa-solid fa-phone "></i> +012 345 6789</li>
                     <li><i class="fa-solid fa-envelope"> </i> | mail@domain.com</li>
                 </ul>
 
@@ -50,7 +50,7 @@
                 <div class="col-6">
                     <div class="row">
                         <div class=" col-5 ">
-                            <select class="ops" name="" placeholder="Pick me up" id="">
+                            <select class="ops p-2" name="" placeholder="Pick me up" id="">
                                 <option value="">Pick-Up Location</option>
                                 <option value="1">Pavia</option>
                                 <option value="2">Milan</option>
@@ -74,12 +74,12 @@
                 <div class="col-6">
                     <div class="row">
                         <div class="col-4 ">
-                            <input style="border: 1px solid grey;" type="date" class="ops" name="" id="">
+                            <input style="border: 1px solid grey;" type="date" class="ops p-2" name="" id="">
 
 
                         </div>
                         <div class="col-4">
-                            <select class="ops" name="" id="">
+                            <select class="ops " name="" id="">
                                 <option value="">Select your Car</option>
                                 <option value="1">Benz</option>
                                 <option value="2">Bmw</option>
