@@ -1,10 +1,37 @@
 <?php 
 
-include_once('db.php');
+// include_once('db.php');
 
-$myconnection = createConnection();
+// $myconnection = createConnection();
 
-var_dump($my
+// //reuire if your environment does not handle autoloading
+
+ 
+// // Update the path below to your autoload.php, 
+// // see https://getcomposer.org/doc/01-basic-usage.md 
+// require_once '../vendor/autoload.php'; 
+ 
+// use Twilio\Rest\Client; 
+ 
+// $sid    = "AC5b48d1481826964d228cb70919b766b4"; 
+// $token  = "37314565bbf84e146a277734a2a60f56"; 
+// $twilio = new Client($sid, $token); 
+ 
+// $message = $twilio->messages 
+//                   ->create(
+                      
+                      
+//                     "+393313054501", // to 
+//                            array(        
+//                                "body" => "Your message" 
+//                            ) 
+//                   ); 
+ 
+// // print($message->sid);
+
+
+
+
 
 ?>
 
