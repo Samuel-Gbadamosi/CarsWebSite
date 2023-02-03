@@ -37,6 +37,7 @@ header{
 
 .myres li a {
     color: white;
+    text-decoration: dotted;
 }
 
 footer{
@@ -88,6 +89,8 @@ footer{
 .imgpic{
     height: 800px;
     width: 100%;
+
+
 }
 .mysecttt{
     height: 300px;
