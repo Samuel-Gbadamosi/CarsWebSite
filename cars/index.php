@@ -1,3 +1,13 @@
+<?php 
+
+include_once('db.php');
+
+$myconnection = createConnection();
+
+var_dump($my
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
