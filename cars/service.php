@@ -232,15 +232,11 @@
 
                     <button class="btn-lg btn-primary" style="background-color: #F77D0A; border:2px solid #F77D0A;">Register Now</button>
                   
-
-
                 </div>
 
             </div>
         
-
         </section>
-
 
     </main>
     <footer>
