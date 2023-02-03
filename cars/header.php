@@ -35,7 +35,7 @@
                         <li><a href="about.php">About</a></li>
                         <li><a href="service.php">Service</a></li>
                         <li>Cars</li>
-                        <li>Contact</li>
+                        <li><a href="contact.php">Contact</a></li>
                     </ul>
 
                 </div>

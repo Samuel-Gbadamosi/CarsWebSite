@@ -224,12 +224,12 @@
             <!-- new roll to be added -->
             <section class="container">
             <div class="page-head">
-                <div>
+                <div class="text-center">
                     <h2>50% OFF</h2>
                     <h3>SPECIAL OFFER FOR NEW MEMBERS</h3>
                     <p>Only for Sunday from 1st Jan to 30th Jan 2045</p>
 
-                    <button class="btn-lg btn-primary">Register Now</button>
+                    <button class="btn-lg btn-primary" style="background-color: #F77D0A; border:2px solid #F77D0A;">Register Now</button>
                   
 
 

@@ -35,6 +35,10 @@ header{
 
 }
 
+.myres li a {
+    color: white;
+}
+
 footer{
     height: 400px;
     background-color: #2B2E4A;
@@ -394,4 +398,19 @@ background-color: #f4f5f8;
 .abt{
     font-weight: 800;
     font-size: 50px;
+}
+
+.page-head h2{
+    font-size: 85px;
+    color: #F77D0A;
+    font-weight: 700;
+}
+
+.page-head h3{
+    color: white;
+    font-weight: 700;
+}
+
+.page-head p{
+    color: #8486A0;
 }
