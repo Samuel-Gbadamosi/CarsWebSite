@@ -7,8 +7,7 @@ $password = "root";
 $dbname = "Trustdb";
 
 
-//create database connection and fucntions
-
+//create database connection and functions
 function createConnection(){
 
     global $servername,$username,$password,$dbname;
@@ -23,6 +22,7 @@ function createConnection(){
 
 }
 
+//get products
 function getProducts(){
 
     $conn = createConnection();
