@@ -40,7 +40,6 @@
 
                 </div>
                 <!-- end row  -->
-
             </section>
             <section class="base">
                 <div class="row container pt-4">
